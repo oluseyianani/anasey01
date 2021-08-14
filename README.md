@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋🏼, I'm Oluseyi Anani
+
+I am a software engineer with over three years of experience working on full-stack web technologies (with special interest on the backend) in companies like [Andela](https://www.andela.com), [Influence&Co.](https://www.influenceandco.com) and more.
+
+- 🌱  I’m currently taking a deep dive into CLIs, Databases and Infrastructure work, 
+
+- 💬  Ask me about PHP, Laravel, Node, Javascript
+
+- 📫  How to reach me: oluseyi[at]oluseyianani.com
+
+- 📄 [Resume](https://www.linkedin.com/in/anasey/)
 
 <!--
 **anasey01/anasey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
