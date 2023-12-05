@@ -6,7 +6,7 @@ I am a software engineer with over three years of experience working on full-sta
 
 - 💬  Ask me about PHP, Laravel, Node, Javascript
 
-- 📫  How to reach me: oluseyi[at]oluseyianani.com
+- 📫  How to reach me: oluseyi.anani[at]gmail.com
 
 - 📄 [Resume](https://www.linkedin.com/in/anasey/)
 
